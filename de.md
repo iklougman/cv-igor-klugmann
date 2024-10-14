@@ -86,8 +86,8 @@ _08/2016 – 10/2017_
 
 - **Golang:** Seit ca. einem halben Jahr wird Golang in der Freizeit gelernt.
 - **AWS:** Erfahrung mit Buckets, Lambdas und API Gateway.
-- **CI/CD & Containerisierung:** Erfahren im Aufbau von Pipelines und der Containerisierung von Anwendungen.
-- **Echtzeitkommunikation:** WebSockets und WebRTC für die Übertragung von Echtzeitdaten.
+- **CI/CD & Containerisierung:** Erfahrung im Aufbau von Pipelines und der Containerisierung von Anwendungen.
+- **Echtzeitkommunikation:** Erfahrung mit WebSockets und WebRTC für die Übertragung von Echtzeitdaten.
 - **Testing & QA:** Erfahren in Jest, Cypress, React Testing Library; Qualitätssicherung mit ESLint und Prettier.
 - **SSO-Integration:** Erfahrungen mit Keycloak und Auth0.
 - **Teamleitung:** Betreuung von Junior-Entwicklern und Rekrutierung neuer Talente.
@@ -95,7 +95,7 @@ _08/2016 – 10/2017_
 - **Datenbanken:** Erfahrung mit MongoDB und PostgreSQL.
 - **Messaging:** RabbitMQ für messagebasierten Architekturen.
 - **Next.js:** Einsatz von Next.js in privaten Projekten.
-- **State Management:** Praktische Erfahrung mit dem Flux-Pattern unter Verwendung von Redux und Vuex.
+- **State Management:** Praktische Erfahrung mit dem Flux-Pattern (Redux und Vuex).
 
 ---
 
@@ -112,7 +112,8 @@ _Das Projekt kann auf Anfrage während des Vorstellungsgesprächs live demonstri
 
 ## Ausbildung
 
-**Bachelor of Production Engineering, B.Eng.**  
+**Bachelor of Engineering, B.Eng.**
+Fachrichtung: Produktionstechnik
 Fachhochschule Köln, Köln, Deutschland  
 Abschluss: Januar 2014
 
